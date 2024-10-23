@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prompts>
+  <prompt id="1">
+    <message>Updated README with installation instructions</message>
+  </prompt>
+  <prompt id="2">
+    <message>Fixed bug in user authentication flow</message>
+  </prompt>
+  <prompt id="3">
+    <message>Refactored code for better maintainability</message>
+  </prompt>
+</prompts>
